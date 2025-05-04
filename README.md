@@ -25,7 +25,8 @@ This project leverages the power of the following technologies:
     * [React.js](https://react.dev/): A JavaScript library for building user interfaces.
     * [Tailwind CSS](https://tailwindcss.com/): A utility-first CSS framework for rapid UI development.
     * [React Router](https://reactrouter.com/): A standard library for routing in React applications.
-    * [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) & [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+    * [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML): Provides the semantic structure and organization of the web application's content.
+    * [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS): Handles the visual styling, layout, and responsiveness of the user interface, ensuring a consistent experience across different devices.
 
 * **Backend:**
     * [Node.js](https://nodejs.org/): A JavaScript runtime built on Chrome's V8 JavaScript engine.
