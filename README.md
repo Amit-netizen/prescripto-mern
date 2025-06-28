@@ -1,4 +1,4 @@
-# ⚕️ Prescripto - Your Digital Health Hub
+# ⚕️ Prescripto – Secure Health SaaS Platform
 
 [![MERN Stack](https://img.shields.io/badge/MERN-MongoDB%20%7C%20Express%20%7C%20React%20%7C%20Node.js-brightgreen)](https://www.mongodb.com/mern-stack)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v3.x-%2338B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
